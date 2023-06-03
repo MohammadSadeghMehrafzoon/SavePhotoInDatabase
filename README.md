@@ -1,12 +1,12 @@
 
 # Summary:
- -> Save photo in database by room: 
+-> Save photo in database by room: 
 In this resource you will learn how to select a photo from the mobile memory and then display it
 
 # Libraries used:
-  1.Room
-  2.glide 
-  3.CircleImageView
+1.Room
+2.glide 
+3.CircleImageView
 
 # Screenshots:
 
